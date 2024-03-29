@@ -39,7 +39,6 @@ var circle1 = calcAreaCircle(5);
 console.log(circle1);
 
 //게시글을 삭제하는 함수
-
 function removeBoardArticle(){
 
 }
